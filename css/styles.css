@@ -1,0 +1,34 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('images/happyB.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: white;
+    margin-top: 15%;
+}
+
+
+#first,
+#two,
+#three {
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    text-align: center;
+}
+
+.fond {
+    background-image: url('css/images/happyB');
+}
+
+.fond1 {
+    background-image: url('css/images/happy');
+}
